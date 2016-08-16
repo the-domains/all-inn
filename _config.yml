@@ -1,0 +1,14 @@
+layout_spectrum: 0.20612493576481938
+typography_spectrum: 0.495344519848004
+color:
+  brandStrength: 0.8712194920517504
+  lightness: 0.15750729502178729
+  saturation: 0.9867095539811999
+  rhythmicContrast: 0.14220438641496003
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: All INN
