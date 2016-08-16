@@ -6,9 +6,13 @@ color:
   saturation: 0.9867095539811999
   rhythmicContrast: 0.14220438641496003
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
 name: All INN
+navigation:
+  - name: All Inn out Bethel's Front Door
+    url: 'http//:all-inn.org'
+    type: external
